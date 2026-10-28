@@ -1,0 +1,7 @@
+RENCANA KONTEN ADIT
+- Javascript
+ *es6
+*frame work
+- php framework
+- interview
+- vlogs
